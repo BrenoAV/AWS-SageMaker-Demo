@@ -73,7 +73,7 @@ To avoid incurring unnecessary charges, use the `AWS Management Console` to dele
 
 ---
 <div align="center">
-  <strong>"People’s dreams... Have no ends" - OP</strong>
+  <strong>"PEOPLE'S DREAMS WILL NEVER END" - OP</strong>
 </div>
 <p align="center">
   <sub>Created by BrenoAV</sub>
